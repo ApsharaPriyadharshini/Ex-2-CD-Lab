@@ -67,7 +67,8 @@ int yywrap() {
 
 ```
 # OUTPUT
-<img width="907" height="467" alt="image" src="https://github.com/user-attachments/assets/146cf365-dbf9-4635-ae20-1d95c00c6c3d" />
+<img width="1088" height="501" alt="image" src="https://github.com/user-attachments/assets/8df1e87e-ae35-4331-9e7b-24e1b84b7158" />
+
 
 
 # RESULT
