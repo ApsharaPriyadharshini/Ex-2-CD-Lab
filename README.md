@@ -67,7 +67,7 @@ int yywrap() {
 
 ```
 # OUTPUT
-<img width="626" height="371" alt="image" src="https://github.com/user-attachments/assets/e80b9862-3755-4c5f-8cfc-ac55bf754da2" />
+<img width="835" height="328" alt="image" src="https://github.com/user-attachments/assets/0b3cd809-d0e3-4c4a-9338-a37c722259d1" />
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
